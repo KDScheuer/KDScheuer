@@ -1,4 +1,5 @@
 - Hi, I’m Kristopher Scheuer
+- 8 Years of SysAdmin Experince in the Marne Corps
 - I’m currently learning Python / HTML / CSS / JS
 - How to reach me KDScheuer97@gmail.com
 
