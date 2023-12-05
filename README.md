@@ -1,5 +1,3 @@
-# **Professional Portfolio**
-
 # **Introduction**
 Welcome to my GitHub repository! I am a seasoned IT professional with over 8 years of experience in systems administration, specializing in cybersecurity. Throughout my career, I have developed a diverse skill set, including scripting expertise in BASH, PowerShell, and Python. This repository showcases my projects, scripts, and contributions across various domains.
 
