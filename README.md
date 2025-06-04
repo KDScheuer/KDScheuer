@@ -1,25 +1,18 @@
-# **Introduction**
-Welcome to my GitHub repository! I am a seasoned IT professional with over 8 years of experience in systems administration, specializing in cybersecurity. Throughout my career, I have developed a diverse skill set, including scripting expertise in BASH, PowerShell, and Python. This repository showcases my projects, scripts, and contributions across various domains.
+# Introduction
 
-# **Expertise**
-**Systems Administration**
- - My extensive background in systems administration includes managing and maintaining complex IT infrastructures. I have a strong foundation in configuring, monitoring, and optimizing systems for performance and security.
+I have experience in both government and private sector IT. From Helpdesk Technician to Network Administrator, System Administrator, and currently a Site Reliability Engineer, I have gained exposure to many different technologies and quickly pick up new ones. I am passionate about working alongside developers to enable rapid development iterations. While I have dabbled in many facets of IT, my primary passions are automation, infrastructure, and DevOps.
 
-**Cybersecurity**
- - With a focus on cybersecurity, I have implemented robust security measures to safeguard systems and data. My experience involves threat detection, vulnerability assessments, and the implementation of security best practices.
+# Programming Languages
 
-**Scripting**
- - I am proficient in scripting languages such as BASH, PowerShell, and Python. I leverage automation to streamline administrative tasks, enhance efficiency, and improve overall system reliability.
+- **Python:** My preferred language for scripting and automation.  
+- **Bash:** Written scripts to automate SSL certificate management and perform configuration / database backups.  
+- **PowerShell:** Developed scripts for administrative tasks and security operations in Windows environments.  
+- **Java / C#:** Novice coder with experience in debugging and expanding features for .NET applications, as well as personal projects in Java.
 
-**Projects**
- - Explore my GitHub repositories to find a collection of projects that highlight my skills and interests. Whether it's scripting solutions, cybersecurity tools, or systems administration utilities, each project reflects my commitment to innovation and problem-solving.
+# Contact
 
-# **Featured Technologies**
- - **Python:** My preferred language for scripting and automation due to its versatility and extensive library support.
- - **BASH:** A staple for Unix-like systems, I have crafted numerous shell scripts for task automation and system management.
- - **PowerShell:** Leveraging the power of PowerShell in Windows environments, I have developed scripts for administrative tasks and security operations.
+Feel free to reach out if you have questions, suggestions, or collaboration opportunities.  
+Email: KDScheuer97@gmail.com  
+LinkedIn: [linkedin.com/in/kdscheuer](https://www.linkedin.com/in/kdscheuer/)
 
-# **Contact**
-Feel free to reach out if you have questions, suggestions, or collaboration opportunities. You can contact me via email at KDScheuer97@gmail.com or connect on LinkedIn at https://www.linkedin.com/in/kdscheuer/.
 
-Thank you for visiting my GitHub! I invite you to explore my projects and witness my passion for technology and cybersecurity.
