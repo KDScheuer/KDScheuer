@@ -26,12 +26,12 @@ Outside of work I run a self-hosted homelab for my family, occasionally help sma
 ---
 
 ## Client Work
-**[event-business-platform](https://github.com/yourusername/event-business-platform)** — Serverless AWS platform built for a real event planning client. Lambda, API Gateway, DynamoDB, Stripe, and OpenPhone — production since 2024. Architecture and design decisions documented; source omitted to protect client information.
+**[event-business-platform](https://github.com/KDScheuer/event-business-platform)** — Serverless AWS platform built for a real event planning client. Lambda, API Gateway, DynamoDB, Stripe, and OpenPhone — production since 2024. Architecture and design decisions documented; source omitted to protect client information.
 
 ---
 
 ## Personal Projects
-**[homelab](https://github.com/yourusername/homelab)** — Self-hosted family infrastructure running on Docker with full monitoring, a 3-2-1-1-0 backup strategy, and zero services exposed to the internet. Prometheus, Grafana, Node Exporter, SNMP for the NAS, Blackbox for connectivity — all dashboards built from scratch.
+**[homelab](https://github.com/KDScheuer/Home-Lab)** — Self-hosted family infrastructure running on Docker with full monitoring, a 3-2-1-1-0 backup strategy, and zero services exposed to the internet. Prometheus, Grafana, Node Exporter, SNMP for the NAS, Blackbox for connectivity — all dashboards built from scratch.
 
 ---
 
